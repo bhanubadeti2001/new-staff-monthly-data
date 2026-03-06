@@ -1,0 +1,20 @@
+{
+  "short_name": "Trailing Ivy",
+  "name": "Trailing Ivy Café Attendance",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/cafe/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/cafe/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2C1810",
+  "background_color": "#F5EFE4"
+}
