@@ -1,0 +1,5 @@
+{
+  "name": "Trailing Ivy Café - Staff Attendance",
+  "description": "A comprehensive staff attendance management system with role-based access, check-in terminal, and QR-based automated check-in.",
+  "requestFramePermissions": []
+}
